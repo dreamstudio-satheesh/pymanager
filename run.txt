@@ -1,0 +1,14 @@
+python -m venv env
+
+
+
+.\env\Scripts\activate
+
+
+python main.py
+python generate_txt.py
+python folder.py
+python migration.py
+
+
+deactivate
